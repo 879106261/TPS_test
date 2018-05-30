@@ -4,7 +4,7 @@ from email.header import Header
 import smtplib
 import unittest
 import time
-import os
+
 
 def send_mail():
     pass
