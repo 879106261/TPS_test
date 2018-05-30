@@ -9,3 +9,14 @@
 2018-05-30 14:49:20:用户登录在验证成功
 2018-05-30 14:49:20:user_login_success.png 图片插入成功
 2018-05-30 14:49:20:No exception in test_login2 method.
+2018-05-30 16:27:48:登录成功
+2018-05-30 16:27:48:No exception in user_login method.
+2018-05-30 16:27:48:项目创建成功
+2018-05-30 16:27:48:creat_project_success.png 图片插入成功
+2018-05-30 16:27:48:No exception in test_creatProject method.
+2018-05-30 16:28:04:用户不存在验证成功
+2018-05-30 16:28:04:user_login_error.png 图片插入成功
+2018-05-30 16:28:04:No exception in test_login1 method.
+2018-05-30 16:28:29:用户登录在验证成功
+2018-05-30 16:28:29:user_login_success.png 图片插入成功
+2018-05-30 16:28:29:No exception in test_login2 method.
