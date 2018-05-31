@@ -138,3 +138,608 @@ JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using
 [Parent 14628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 [Child 10944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 [Child 10944, Chrome_ChildThread] WARNING: pipe error: 109:*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527669129259	geckodriver	INFO	geckodriver 0.20.1
+1527669129275	geckodriver	INFO	Listening on 127.0.0.1:59582
+1527669132338	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\87910\\AppData\\Local\\Temp\\rust_mozprofile.bVbiKQHActR1"
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+1527669134134	Marionette	INFO	Listening on port 59590
+1527669134420	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 14560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14560, [Child 2408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/[Parent 12340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527669148805	geckodriver	INFO	geckodriver 0.20.1
+1527669148820	geckodriver	INFO	Listening on 127.0.0.1:59636
+1527669151910	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\87910\\AppData\\Local\\Temp\\rust_mozprofile.MN9GeTHU0Afg"
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+1527669153741	Marionette	INFO	Listening on port 59644
+1527669153950	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 15400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8464, Chrome_C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 8924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527669161129	geckodriver	INFO	geckodriver 0.20.1
+1527669161145	geckodriver	INFO	Listening on 127.0.0.1:59684
+1527669164245	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\87910\\AppData\\Local\\Temp\\rust_mozprofile.YhCVsMndGTb4"
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+1527669166063	Marionette	INFO	Listening on port 59692
+1527669166333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 12548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/b[Parent 12548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 9360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527669216311	geckodriver	INFO	geckodriver 0.20.1
+1527669216319	geckodriver	INFO	Listening on 127.0.0.1:59740
+1527669219409	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.jn9Lv2d7aeVe"
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+1527669221085	Marionette	INFO	Listening on port 59748
+1527669221455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 5820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9784, Chro[Child 15192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15192, Chrome_C[Parent 5820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6796, Chrome_ChildThread] WARNIN*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527669238919	geckodriver	INFO	geckodriver 0.20.1
+1527669238926	geckodriver	INFO	Listening on 127.0.0.1:59798
+1527669242013	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.gQKrPgnjOQLe"
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+1527669243718	Marionette	INFO	Listening on port 59806
+1527669244031	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 14220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12076, Chrome_C[Child 11804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11804, Chrome_ChildThread] WARNING:[Parent 14220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 416, Chrome_ChildThread] WARNING: pipe error: 109: fi*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527669254008	geckodriver	INFO	geckodriver 0.20.1
+1527669254016	geckodriver	INFO	Listening on 127.0.0.1:59848
+1527669257031	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.Q3gmuTH2xU4S"
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+1527669258790	Marionette	INFO	Listening on port 59859
+1527669259047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 12340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12340, Chrome_ChildThread] WARNING:1527669278124	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Child 13556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13556, Chrome_1527669278137	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1527669278137	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 7616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12608, C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527670054712	geckodriver	INFO	geckodriver 0.20.1
+1527670054712	geckodriver	INFO	Listening on 127.0.0.1:60257
+1527670057821	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\87910\\AppData\\Local\\Temp\\rust_mozprofile.z3GT3io9tjui"
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+1527670059783	Marionette	INFO	Listening on port 60265
+1527670059972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527670061258	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Program/Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Program/Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+[Parent 11044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12392, Chrome_ChildThr*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527736422035	geckodriver	INFO	geckodriver 0.20.1
+1527736422043	geckodriver	INFO	Listening on 127.0.0.1:49916
+1527736425110	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.nNlrx0v2oah2"
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+1527736428017	Marionette	INFO	Listening on port 49925
+1527736428272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 9880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9880, Chr[Child 8596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8596, Chrome_Chil[Parent 14112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10384, Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527736446254	geckodriver	INFO	geckodriver 0.20.1
+1527736446264	geckodriver	INFO	Listening on 127.0.0.1:49986
+1527736449282	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.v8va5X4IyJLn"
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+1527736451317	Marionette	INFO	Listening on port 49994
+1527736452398	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 15780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15780, Chrome_ChildThread][Parent 16752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527736462766	geckodriver	INFO	geckodriver 0.20.1
+1527736462776	geckodriver	INFO	Listening on 127.0.0.1:50038
+1527736465792	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.ffLmQlXBepnb"
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+1527736467901	Marionette	INFO	Listening on port 50050
+1527736468916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 10092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1527736487312	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 10092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1527736487319	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 10092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6068, Chro*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527736568722	geckodriver	INFO	geckodriver 0.20.1
+1527736568737	geckodriver	INFO	Listening on 127.0.0.1:50224
+1527736571769	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\87910\\AppData\\Local\\Temp\\rust_mozprofile.Qzp8RuJsTOM5"
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+1527736574056	Marionette	INFO	Listening on port 50232
+1527736574948	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 9396, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9396, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 551*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527736589813	geckodriver	INFO	geckodriver 0.20.1
+1527736589829	geckodriver	INFO	Listening on 127.0.0.1:50293
+1527736592893	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\87910\\AppData\\Local\\Temp\\rust_mozprofile.jHMhkzD1par2"
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+1527736594831	Marionette	INFO	Listening on port 50301
+1527736594980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 17724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chr*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527736602231	geckodriver	INFO	geckodriver 0.20.1
+1527736602247	geckodriver	INFO	Listening on 127.0.0.1:50342
+1527736605267	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\87910\\AppData\\Local\\Temp\\rust_mozprofile.6q0gEcXCHoqd"
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+1527736607186	Marionette	INFO	Listening on port 50350
+1527736607398	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 18420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18420, C[Parent 17852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/[Parent 17852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_wi*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527750988725	geckodriver	INFO	geckodriver 0.20.1
+1527750988725	geckodriver	INFO	Listening on 127.0.0.1:51991
+1527750991803	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\87910\\AppData\\Local\\Temp\\rust_mozprofile.CbNGsMwX5MLD"
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+1527750993752	Marionette	INFO	Listening on port 51999
+1527750993920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 3556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6480, Chrome_ChildThread] WARNING: pipe erro*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527751168741	geckodriver	INFO	geckodriver 0.20.1
+1527751168757	geckodriver	INFO	Listening on 127.0.0.1:52063
+1527751171850	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\87910\\AppData\\Local\\Temp\\rust_mozprofile.mRPsHhg8mJqn"
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+1527751173790	Marionette	INFO	Listening on port 52071
+1527751173958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 17516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/buil[Parent 15764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11252, Chrome_ChildThread] WARNING:*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527751320143	geckodriver	INFO	geckodriver 0.20.1
+1527751320143	geckodriver	INFO	Listening on 127.0.0.1:52130
+1527751323220	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\87910\\AppData\\Local\\Temp\\rust_mozprofile.0XhgcK9grnMY"
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+1527751325092	Marionette	INFO	Listening on port 52138
+1527751325314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 2388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8240, Chrome_ChildThread] WARNING: pipe erro[Parent 2696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17920, Chrome*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527751339431	geckodriver	INFO	geckodriver 0.20.1
+1527751339431	geckodriver	INFO	Listening on 127.0.0.1:52183
+1527751342524	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\87910\\AppData\\Local\\Temp\\rust_mozprofile.FobDqBIUgTLf"
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+1527751344385	Marionette	INFO	Listening on port 52191
+1527751344617	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 16584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16584, Chro[Parent 12720, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527751351363	geckodriver	INFO	geckodriver 0.20.1
+1527751351378	geckodriver	INFO	Listening on 127.0.0.1:52226
+1527751354456	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\87910\\AppData\\Local\\Temp\\rust_mozprofile.O4jebJtuQBhV"
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+1527751356255	Marionette	INFO	Listening on port 52234
+1527751356509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 7552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7552, Chrome_ChildThread] WARNING: [Child 7892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7892, Chrome_[Parent 14156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527751503829	geckodriver	INFO	geckodriver 0.20.1
+1527751503829	geckodriver	INFO	Listening on 127.0.0.1:52281
+1527751506922	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\87910\\AppData\\Local\\Temp\\rust_mozprofile.mVtyLY3OKdaw"
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+1527751508785	Marionette	INFO	Listening on port 52289
+1527751508996	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 1100, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 464, Chrome_Chi[Parent 1100, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17576, Chrom*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527751525018	geckodriver	INFO	geckodriver 0.20.1
+1527751525018	geckodriver	INFO	Listening on 127.0.0.1:52337
+1527751528096	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\87910\\AppData\\Local\\Temp\\rust_mozprofile.lX2EPsZPc3Y2"
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+1527751530195	Marionette	INFO	Listening on port 52346
+1527751531277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 17464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17464, Chro[Parent 16040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16016, Chrome_C[Parent 16040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527751537793	geckodriver	INFO	geckodriver 0.20.1
+1527751537809	geckodriver	INFO	Listening on 127.0.0.1:52384
+1527751540886	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\87910\\AppData\\Local\\Temp\\rust_mozprofile.kzy9Yv9xV7IZ"
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+1527751542718	Marionette	INFO	Listening on port 52392
+1527751542968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 8132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8004, Chrom*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527751860471	geckodriver	INFO	geckodriver 0.20.1
+1527751860471	geckodriver	INFO	Listening on 127.0.0.1:52455
+1527751863564	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\87910\\AppData\\Local\\Temp\\rust_mozprofile.uxrKWcfZgkCl"
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+1527751865439	Marionette	INFO	Listening on port 52463
+1527751865620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 9344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11372, Chrome*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527752246366	geckodriver	INFO	geckodriver 0.20.1
+1527752246382	geckodriver	INFO	Listening on 127.0.0.1:52531
+1527752249475	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\87910\\AppData\\Local\\Temp\\rust_mozprofile.MstHJA7tEpb0"
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+1527752251599	Marionette	INFO	Listening on port 52539
+1527752252696	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 2908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2908, Chrome_ChildThread] WARNI[Parent 16136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9268, Chrome_ChildT*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 15352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527752259381	geckodriver	INFO	geckodriver 0.20.1
+1527752259397	geckodriver	INFO	Listening on 127.0.0.1:52578
+1527752262490	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\87910\\AppData\\Local\\Temp\\rust_mozprofile.KdUl6M8Su4RU"
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+1527752264322	Marionette	INFO	Listening on port 52587
+1527752264547	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://47.104.199.225/static/js/app.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 1028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527752536302	geckodriver	INFO	geckodriver 0.20.1
+1527752536302	geckodriver	INFO	Listening on 127.0.0.1:52642
+1527752539395	mozrunner::runner	INFO	Running command: "D:\\Program\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\87910\\AppData\\Local\\Temp\\rust_mozprofile.26iZj4yDsqrx"
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\87910\AppData\Local\openvr\openvrpaths.vrpath
+1527752541572	Marionette	INFO	Listening on port 52650
+1527752542587	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://47.104.199.225/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: http://47.104.199.225/static/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 17588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/c[Parent 7916, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7916, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 13204, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
